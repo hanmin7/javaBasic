@@ -1,4 +1,4 @@
-public class OperationsPromotionExample {
+public class OperationPromotionExample {
 	public static void main(String[] args) {
 		byte byteValue1 = 10;
 		byte byteValue2 = 20;
@@ -18,8 +18,8 @@ public class OperationsPromotionExample {
 		System.out.println(intValue4);
 		
 		int intValue5 = 10;
-		//int intValue6 = 10 / 40;
-		double doubleValue = intValue5 / 40
+		//int intValue6 = 10 / 4.0;
+		double doubleValue = intValue5 / 4.0;
 		System.out.println(doubleValue);
 	}
 }	
